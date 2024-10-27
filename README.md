@@ -142,3 +142,5 @@ Jogo labirinto codificado em html aprendido em sala de aula.
     </script>
     </body>
     </html>
+
+![image](https://github.com/user-attachments/assets/b4203c25-70cc-4afc-adf0-310f0f5b3561)
