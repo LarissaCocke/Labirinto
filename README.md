@@ -1,6 +1,5 @@
 # Labirinto
-
-JOGO DE LABIRINTO CODIFICADO NO HTML EM SALA DE AULA.
+Jogo labirinto codificado em html aprendido em sala de aula.
 
     <!DOCTYPE html>
     <html>
@@ -10,7 +9,6 @@ JOGO DE LABIRINTO CODIFICADO NO HTML EM SALA DE AULA.
             html{
                 background-color: forestgreen;
             }
-            
             body{
                 width: 100%;
                 height: 80%;
@@ -144,9 +142,8 @@ JOGO DE LABIRINTO CODIFICADO NO HTML EM SALA DE AULA.
         drawMaze();
         drawPlayer();
     }
-    
     updateGame();
-
-</script>
-</body>
-</html>
+    
+    </script>
+    </body>
+    </html>
