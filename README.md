@@ -144,7 +144,7 @@ Código do jogo no index.html:
     </body>
     </html>
 
-Aqui, o jogador é o quadrado laranja que começa no canto superior esquerdo e deve chegar ao canto inferior esquerdo.
+O jogador é um quadrado laranja que começa no canto superior esquerdo e deve chegar ao canto inferior esquerdo.
 
 imagem do jogo executado:
 
