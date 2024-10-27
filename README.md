@@ -1,5 +1,6 @@
 # Labirinto
 Jogo labirinto codificado em html aprendido em sala de aula.
+Código do jogo no index.html:
 
     <!DOCTYPE html>
     <html>
@@ -142,5 +143,9 @@ Jogo labirinto codificado em html aprendido em sala de aula.
     </script>
     </body>
     </html>
+
+Aqui, o jogador é o quadrado laranja que começa no canto superior esquerdo e deve chegar ao canto inferior esquerdo.
+
+imagem do jogo executado:
 
 ![image](https://github.com/user-attachments/assets/b4203c25-70cc-4afc-adf0-310f0f5b3561)
